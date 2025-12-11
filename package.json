@@ -1,0 +1,17 @@
+{
+  "dependencies": {
+    "express": "^5.1.0",
+    "socket.io": "^4.8.1"
+  },
+  "name": "dactylo",
+  "version": "1.0.0",
+  "description": "dactylo",
+  "main": "app.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon app.js"
+  },
+  "author": "Sitraka Ratovonarivo",
+  "license": "ISC"
+}
